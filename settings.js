@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = true 
 global.userRegister = false 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
@@ -34,8 +34,8 @@ global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["6285342106390","622150996855"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6285725066743'] //premium user
+global.owner = ["6288227856331","6285725066743"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62887435047326" // nomor wa kalian
 global.ownernomerr = "+62887435047326" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
@@ -44,7 +44,7 @@ global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© Alphabot-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
-global.sessionName = 'session'
+global.sessionName = 'session.data'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
